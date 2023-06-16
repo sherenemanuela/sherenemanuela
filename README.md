@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sherenemanuela and is a computer science student
-- 👀 I’m interested in web and application development
-- 🌱 I’m currently learning Java and C# also honing my skills in html, css, and javascript
 
 
 <!---
