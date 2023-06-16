@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @sherenemanuela and is a computer science student
+- 👋 Hi, I’m @sherenemanuela
+- 💻 I am a computer science student
+- 🍎 Also one of the Apple Academy learners
 
 
 <!---
